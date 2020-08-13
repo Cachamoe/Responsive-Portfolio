@@ -1,5 +1,5 @@
 # Responsive Portfolio 
-![GitHub Logo](./assets/images/social-media-marketing.jpg)
+![GitHub Logo](./Users/snipperdoodle/Desktop/Repos/Responsive-Portfolio/Assets/Images/Screen Shot 2020-08-13 at 11.41.10 AM.png)
 ## Overview
 This website was created 
 
