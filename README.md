@@ -1,7 +1,7 @@
 # Responsive Portfolio 
 ![screenshot](./assets/images/Screen Shot 2020-08-11 at 10.15.14 AM.png.jpg)
 ## Overview
-This website contains 
+This website contains highlights of me and what I have done so far with computer development as well as ways to connect with me. 
 
 ## Website Features
 1) A main page that gives info about me and also gives links to some of my projects and social media
