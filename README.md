@@ -1,5 +1,7 @@
 # Responsive Portfolio 
-![ScreenShot]((/screenshots/latest.png))
+<p>
+    <img src="relativePath/file.png" width="220" height="240" />
+</p>
 ## Overview
 This website was created 
 
