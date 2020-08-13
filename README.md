@@ -1,6 +1,6 @@
 # Responsive Portfolio 
 <p>
-    <img src="relativePath/file.png" width="220" height="240" />
+    <img src="/Users/snipperdoodle/Desktop/Repos/Responsive-Portfolio/Assets/Images/Screen Shot 2020-08-11 at 10.15.14 AM.png" width="220" height="240" />
 </p>
 ## Overview
 This website was created 
