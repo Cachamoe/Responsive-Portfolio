@@ -1,5 +1,5 @@
 # Responsive Portfolio 
-![ScreenShot](./Users/snipperdoodle/Desktop/Repos/Responsive-Portfolio/Assets/Images/Screen Shot 2020-08-13 at 11.41.10 AM.png)
+![ScreenShot]((https://raw.githubusercontent.com/Users/snipperdoodle/Desktop/Repos/Responsive-Portfolio/Assets/Images/Screen Shot 2020-08-13 at 11.41.10 AM.png)
 ## Overview
 This website was created 
 
