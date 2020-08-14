@@ -1,5 +1,17 @@
 /* Class Styles */
-
+body {
+    background-color: rgb(235, 235, 235);
+}
+hr {
+    border-top: 1px solid black;
+}
+.container {
+    background-color: white;
+    margin-top: 40px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+}
 .margin-top {
     margin-top: 5%;
 }
