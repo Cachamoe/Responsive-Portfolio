@@ -1,5 +1,5 @@
 # Responsive Portfolio 
-![screenshot](./assets/images/Screen Shot 2020-08-11 at 10.15.14 AM.png.jpg)
+![](./assets/images/Screen Shot 2020-08-11 at 10.15.14 AM.png.jpg)
 ## Overview
 This website contains highlights of me and what I have done so far with computer development as well as ways to connect with me. 
 
