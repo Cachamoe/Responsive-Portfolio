@@ -3,6 +3,8 @@
 ## Overview
 This website contains highlights of me and what I have done so far with computer development as well as ways to connect with me. 
 
+Here is a link to the deployed webpage: [https://cachamoe.github.io/Responsive-Portfolio/](https://cachamoe.github.io/Responsive-Portfolio/)
+
 ## Website Features
 1) A main page that gives info about me and also gives links to some of my projects and social media
 2) A portfolio page that highlights some of what I have previously worked on
