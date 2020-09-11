@@ -1,7 +1,7 @@
 # Responsive Portfolio 
 ![](/image2/screenshot.png)
 ## Overview
-This website contains highlights of me and what I have done so far with computer development as well as ways to connect with me. 
+This website contains highlights of me and what I have done so far as well as ways to connect with me. 
 
 Here is a link to the deployed webpage: [https://cachamoe.github.io/Responsive-Portfolio/](https://cachamoe.github.io/Responsive-Portfolio/)
 
