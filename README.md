@@ -10,7 +10,7 @@ Here is a link to the deployed webpage: [https://cachamoe.github.io/Responsive-P
 2) A portfolio page that highlights some of what I have previously worked on
 3) A contact page that allows users to input their info in order to reach out to me
 4) Links to other pages in the footers of each page
-5) Responsive web design that adjusts as the user adjusts the screen size
+5) Responsive web design that adjusts as the user changes the screen size
 
 ## Programs 
 HTML and CSS
