@@ -13,7 +13,7 @@ Here is a link to the deployed webpage: [https://cachamoe.github.io/Responsive-P
 5) Responsive web design that adjusts as the user changes the screen size
 
 ## Programs 
-HTML and CSS
+HTML, CSS and Bootstrap
 
 ## Author/s
 Caleb Chaney
