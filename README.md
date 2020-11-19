@@ -3,7 +3,7 @@
 ## Overview
 This website contains highlights of me and what I have done so far as well as ways to connect with me. 
 
-Here is a link to the deployed webpage: [https://cachamoe.github.io/Responsive-Portfolio/](https://cachamoe.github.io/Responsive-Portfolio/)
+Here is a link to the deployed webpage: [https://cachamoe.github.io/Responsive-Portfolio/]
 
 ## Website Features
 1) A main page that gives info about me and also gives links to some of my projects and social media
@@ -13,7 +13,7 @@ Here is a link to the deployed webpage: [https://cachamoe.github.io/Responsive-P
 5) Responsive web design that adjusts as the user changes the screen size
 
 ## Programs 
-HTML and CSS
+HTML, CSS and Bootstrap
 
 ## License 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
