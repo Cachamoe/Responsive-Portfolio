@@ -12,7 +12,7 @@ Here is a link to the deployed webpage: [https://cachamoe.github.io/Responsive-P
 4) Links to other pages in the footers of each page
 5) Responsive web design that adjusts as the user changes the screen size
 
-## Programs 
+## Technologies  
 HTML, CSS and Bootstrap
 
 ## License 
